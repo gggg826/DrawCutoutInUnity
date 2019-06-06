@@ -1,0 +1,75 @@
+# VS/VSCode files
+.vs
+*.sln
+*.csproj
+*.luaproj
+*.luaproj.user
+*.userprefs
+*.config
+*.code-workspace
+
+# Unity3D
+/Library
+/obj
+/Temp
+/Logs
+
+# EZUnity
+/EZPersistent
+/EZScreenshots
+
+# XLua
+/LuaDebuggee.dll
+/Assets/.lpproj
+/Assets/ThirdParty
+/Assets/ThirdParty.meta
+/Assets/XLua/Gen
+/Assets/XLua/Gen.meta
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
