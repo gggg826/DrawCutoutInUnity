@@ -62,6 +62,7 @@ public class NotchDisplay : MonoBehaviour
             accumTexture.hideFlags = HideFlags.HideAndDontSave;
             Graphics.Blit(source, accumTexture);
 
+            //SetBoundPoint(source.height / 2);
         }
         SetBoundPoint(source.height / 2);
 
